@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+header {
+    border-bottom: 2px solid white;
+    padding-bottom: 10px;
+}
+
+section {
+    margin: 20px;
+}
+
+input {
+    background: transparent;
+    color: white;
+    border: 1px solid white;
+    padding: 5px;
+}
